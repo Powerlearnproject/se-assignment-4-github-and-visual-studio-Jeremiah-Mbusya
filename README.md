@@ -9,21 +9,25 @@ Questions:
 Introduction to GitHub:
 
 1. What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
+
 GitHub is a web-based platform that uses Git for version control, allowing multiple developers to collaborate on projects efficiently. It provides a central location for managing and sharing code, tracking changes, and integrating with other tools and services for software development.
 
 Repositories on GitHub:
 
 2. What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
+
 A GitHub repository is a storage space for a project's code and files, enabling version control and collaboration. To create a new repository, log in to GitHub, click the "+" icon, select "New repository," and configure its details, such as name, visibility, and initialization options. Essential elements of a repository include a README file for project overview, a LICENSE file, a .gitignore file, source code, documentation, and contribution guidelines. These components ensure the repository is well-organized and ready for collaborative development.
 
 Version Control with Git:
 
 3. Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
+
 Version control is a system that records changes to files over time, allowing developers to track and manage different versions of a project. It enables multiple developers to collaborate on the same codebase, keeping a history of changes, who made them, and why. This ensures that developers can work independently on features or fixes without interfering with each other’s work.
 
 Branching and Merging in GitHub:
 
 4. What are branches in GitHub, and why are they important? Describe the process of creating a branch, making changes, and merging it back into the main branch.
+
 Branches in GitHub are separate lines of development that allow developers to work on different features or bug fixes independently without affecting the main codebase. They are important for isolating changes, facilitating collaboration, enabling parallel development, and allowing experimentation.
 
 Creating a Branch:
@@ -52,6 +56,7 @@ Review the pull request, provide feedback, and once approved, merge it using the
 Pull Requests and Code Reviews:
 
 5. What is a pull request in GitHub, and how does it facilitate code reviews and collaboration? Outline the steps to create and review a pull request.
+
 A pull request in GitHub is a feature that allows developers to propose changes to a repository. It serves as a formal request to merge a branch into another branch, typically the main branch (e.g., main or master). Pull requests facilitate collaboration and code review processes by providing a way for team members to review, discuss, and approve changes before they are merged into the main codebase.
 
 Creating a Pull Request
